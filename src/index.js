@@ -1,1 +1,1 @@
-import "./Index.res"
+import "./Index.bs"
